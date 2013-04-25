@@ -1,0 +1,22 @@
+C:\Documents and Settings\wetzel\Desktop\Broadcast\Broadcast\bin\Debug\Broadcast.exe
+C:\Documents and Settings\wetzel\Desktop\Broadcast\Broadcast\bin\Debug\Broadcast.pdb
+C:\Documents and Settings\wetzel\Desktop\Broadcast\Broadcast\bin\Debug\Broadcast.xml
+C:\Documents and Settings\wetzel\Desktop\Broadcast\Broadcast\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\wetzel\Desktop\Broadcast\Broadcast\obj\x86\Debug\Broadcast.Main.resources
+C:\Documents and Settings\wetzel\Desktop\Broadcast\Broadcast\obj\x86\Debug\Broadcast.Resources.resources
+C:\Documents and Settings\wetzel\Desktop\Broadcast\Broadcast\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\wetzel\Desktop\Broadcast\Broadcast\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\wetzel\Desktop\Broadcast\Broadcast\obj\x86\Debug\Broadcast.exe
+C:\Documents and Settings\wetzel\Desktop\Broadcast\Broadcast\obj\x86\Debug\Broadcast.xml
+C:\Documents and Settings\wetzel\Desktop\Broadcast\Broadcast\obj\x86\Debug\Broadcast.pdb
+C:\Users\wetzel\Desktop\Broadcast\Broadcast\obj\x86\Debug\Broadcast.exe
+C:\Users\wetzel\Desktop\Broadcast\Broadcast\obj\x86\Debug\Broadcast.xml
+C:\Users\wetzel\Desktop\Broadcast\Broadcast\obj\x86\Debug\Broadcast.pdb
+C:\Users\wetzel\Desktop\Broadcast\Broadcast\bin\Debug\Broadcast.exe
+C:\Users\wetzel\Desktop\Broadcast\Broadcast\bin\Debug\Broadcast.pdb
+C:\Users\wetzel\Desktop\Broadcast\Broadcast\bin\Debug\Broadcast.xml
+C:\Users\wetzel\Desktop\Broadcast\Broadcast\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\wetzel\Desktop\Broadcast\Broadcast\obj\x86\Debug\Broadcast.Main.resources
+C:\Users\wetzel\Desktop\Broadcast\Broadcast\obj\x86\Debug\Broadcast.Resources.resources
+C:\Users\wetzel\Desktop\Broadcast\Broadcast\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\wetzel\Desktop\Broadcast\Broadcast\obj\x86\Debug\GenerateResource.write.1.tlog

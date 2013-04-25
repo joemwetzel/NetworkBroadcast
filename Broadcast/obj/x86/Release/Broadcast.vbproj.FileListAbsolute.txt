@@ -1,0 +1,11 @@
+C:\Users\wetzel\Desktop\Broadcast\Broadcast\bin\Release\Broadcast.exe
+C:\Users\wetzel\Desktop\Broadcast\Broadcast\bin\Release\Broadcast.pdb
+C:\Users\wetzel\Desktop\Broadcast\Broadcast\bin\Release\Broadcast.xml
+C:\Users\wetzel\Desktop\Broadcast\Broadcast\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\wetzel\Desktop\Broadcast\Broadcast\obj\x86\Release\Broadcast.Main.resources
+C:\Users\wetzel\Desktop\Broadcast\Broadcast\obj\x86\Release\Broadcast.Resources.resources
+C:\Users\wetzel\Desktop\Broadcast\Broadcast\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\wetzel\Desktop\Broadcast\Broadcast\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\wetzel\Desktop\Broadcast\Broadcast\obj\x86\Release\Broadcast.exe
+C:\Users\wetzel\Desktop\Broadcast\Broadcast\obj\x86\Release\Broadcast.xml
+C:\Users\wetzel\Desktop\Broadcast\Broadcast\obj\x86\Release\Broadcast.pdb
